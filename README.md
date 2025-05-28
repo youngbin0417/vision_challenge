@@ -6,5 +6,8 @@
 hw1: pre-processing (gray_scale, contrast_stretch, canny edge detection)-> feature extraction (Texture with LBP, Shape with SIFT) -> knn classifier with cosign similarity
 
 
+<img src="<결과 이미지>">
+<img src="https://github.com/youngbin0417/vision_challenge/blob/main/result.png">
+
 
 hw2: pre-processing -> cnn(resNet) (예정)
