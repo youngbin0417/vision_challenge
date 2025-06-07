@@ -5,6 +5,10 @@
 
 hw1: pre-processing (gray_scale, contrast_stretch, canny edge detection)-> feature extraction (Texture with LBP, Shape with SIFT) -> knn classifier with cosign similarity
 
+color+law+sift
+color+lbp+sift
+color+sift
+
 
 <img src="https://github.com/youngbin0417/vision_challenge/blob/main/result.png">
 
