@@ -3,17 +3,18 @@
 
 캡챠 이미지 데이터셋을 통해 학습
 
-hw1: pre-processing (gray_scale, contrast_stretch)-> feature extraction (Texture with LBP, Shape with SIFT) -> knn classifier with cosign similarity
+hw1
 
-color+law+sift
-color+lbp+sift
-color+sift
 
-knn다시 코사인 유사도로 되돌리기, hog에 edge이미지 넘기는거 그레이로 수정하고, edge 어디에 쓸지 생각하기
+color+lbp+sift+hog
 
-데이터 셋 변경
 
-<img src="https://github.com/youngbin0417/vision_challenge/blob/main/result.png">
+color+law+sift+hog
 
+
+color+lbp+hog
+
+데이터 셋 정제 작업이 필요할듯.
+현재는 데이터셋을 전부 돌려서 accuracy가 환각일 수 있음, 일단단 고의로 언더샘플링을 통해 제한 시킴
 
 hw2: pre-processing -> cnn(resNet) (예정)
