@@ -1,0 +1,101 @@
+﻿image,predicted_label
+query001.png,Car
+query002.png,Bus
+query003.png,Bicycle
+query004.png,Chimney
+query005.png,Chimney
+query006.png,Crosswalk
+query007.png,Car
+query008.png,Bus
+query009.png,Palm
+query010.png,Traffic Light
+query011.png,Traffic Light
+query012.png,Chimney
+query013.png,Hydrant
+query014.png,Car
+query015.png,Motorcycle
+query016.png,Car
+query017.png,Bicycle
+query018.png,Palm
+query019.png,Motorcycle
+query020.png,Chimney
+query021.png,Palm
+query022.png,Bus
+query023.png,Hydrant
+query024.png,Traffic Light
+query025.png,Motorcycle
+query026.png,Bus
+query027.png,Car
+query028.png,Traffic Light
+query029.png,Bus
+query030.png,Bus
+query031.png,Bus
+query032.png,Bicycle
+query033.png,Traffic Light
+query034.png,Bridge
+query035.png,Crosswalk
+query036.png,Hydrant
+query037.png,Palm
+query038.png,Palm
+query039.png,Bus
+query040.png,Car
+query041.png,Chimney
+query042.png,Palm
+query043.png,Traffic Light
+query044.png,Car
+query045.png,Car
+query046.png,Bus
+query047.png,Bus
+query048.png,Car
+query049.png,Car
+query050.png,Traffic Light
+query051.png,Crosswalk
+query052.png,Bicycle
+query053.png,Motorcycle
+query054.png,Crosswalk
+query055.png,Car
+query056.png,Bridge
+query057.png,Motorcycle
+query058.png,Traffic Light
+query059.png,Bridge
+query060.png,Bridge
+query061.png,Motorcycle
+query062.png,Hydrant
+query063.png,Bridge
+query064.png,Bridge
+query065.png,Bus
+query066.png,Motorcycle
+query067.png,Bus
+query068.png,Bus
+query069.png,Bridge
+query070.png,Palm
+query071.png,Motorcycle
+query072.png,Crosswalk
+query073.png,Crosswalk
+query074.png,Bridge
+query075.png,Traffic Light
+query076.png,Traffic Light
+query077.png,Crosswalk
+query078.png,Bridge
+query079.png,Traffic Light
+query080.png,Palm
+query081.png,Motorcycle
+query082.png,Traffic Light
+query083.png,Bus
+query084.png,Bus
+query085.png,Hydrant
+query086.png,Bus
+query087.png,Chimney
+query088.png,Traffic Light
+query089.png,Bus
+query090.png,Bus
+query091.png,Crosswalk
+query092.png,Bus
+query093.png,Bridge
+query094.png,Crosswalk
+query095.png,Hydrant
+query096.png,Car
+query097.png,Car
+query098.png,Motorcycle
+query099.png,Bicycle
+query100.png,Crosswalk
