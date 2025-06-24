@@ -5,4 +5,4 @@
 2. color값 때문에 오히려 validation과 다르게 결과가 나빴음
 
 
-3.
+3. early vision 기술은 잘사용함, resnet과 efficientnet을 fine-tuning할 시간을 앞부분에 할당하여 챌린지2 의 결과가 좋지 못함.
